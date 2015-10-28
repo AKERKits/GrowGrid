@@ -1,4 +1,4 @@
 # GrowGrid
 GroGrid Raised Plant Bed
 
-For more information: http://www.aker.me/growgrid.html
+For more information: http://www.aker.me
