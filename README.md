@@ -2,7 +2,7 @@
 
 *Overview*
 
-The **AKER GroGrid** is a lightweight chicken tractor designed to be fabricated using a CNC router and standard sheet materials. For more information, visit the [AKER Website](http://www.akerkits.com).
+The **AKER GroGrid** is a raised plant bed designed to be fabricated using a CNC router and standard sheet materials. For more information, visit the [AKER Website](http://www.akerkits.com).
 
 ![GroGrid](https://github.com/AKERKits/GrowGrid/blob/master/Images/AKER%20-%20GrowGrid%20-%20v1.0%20-%20Master%20Assembly%20Cropped-min.jpg)
 
